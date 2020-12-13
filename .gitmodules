@@ -1,3 +1,6 @@
 [submodule "modules/openscad-flat-text"]
 	path = modules/openscad-flat-text
 	url = https://github.com/trombik/openscad-flat-text.git
+[submodule "modules/Mini-Drawers-Ultimate"]
+	path = modules/Mini-Drawers-Ultimate
+	url = https://github.com/trombik/Mini-Drawers-Ultimate.git
