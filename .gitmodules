@@ -1,0 +1,3 @@
+[submodule "modules/openscad-flat-text"]
+	path = modules/openscad-flat-text
+	url = https://github.com/trombik/openscad-flat-text.git
