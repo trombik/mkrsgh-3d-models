@@ -4,3 +4,6 @@
 [submodule "modules/Mini-Drawers-Ultimate"]
 	path = modules/Mini-Drawers-Ultimate
 	url = https://github.com/trombik/Mini-Drawers-Ultimate.git
+[submodule "modules/stl-Simple-Toothpaste-Squeezer"]
+	path = modules/stl-Simple-Toothpaste-Squeezer
+	url = https://github.com/trombik/stl-Simple-Toothpaste-Squeezer.git
