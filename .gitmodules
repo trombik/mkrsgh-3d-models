@@ -7,3 +7,6 @@
 [submodule "modules/stl-Simple-Toothpaste-Squeezer"]
 	path = modules/stl-Simple-Toothpaste-Squeezer
 	url = https://github.com/trombik/stl-Simple-Toothpaste-Squeezer.git
+[submodule "modules/openscad-sanding-block"]
+	path = modules/openscad-sanding-block
+	url = https://github.com/trombik/openscad-sanding-block.git
